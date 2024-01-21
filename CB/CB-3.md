@@ -4,7 +4,7 @@
 
 #### STATUTE OF LIMITATIONS ACT OF 2022
 
-#### 1st City Council - Session X
+#### 1st City Council - Session 8
 
 _Table of Contents_
 
@@ -37,19 +37,19 @@ IV. Mode of Nullification
 **(a)** Each criminal offense, civil infraction, or any other kind of law written to be argued by the City of Vancouver, shall have a codified limitations period, as prescribed in Section II.\
 **(a)** No person may be held liable, prosecuted, or convicted for the listed offense after the prescribed period has passed for that offense, as listed herein;\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **(i)** Indictable Offenses against the Administration of Law and Justice as described in the Criminal Code: 60 days\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **(i)** Summary Offenses against the Administration of Law and Justice as described in the Criminal Code: 35 days\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **(i)** Indictable Offenses against Public Order as described in the Criminal Code: 42 days\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **(i)** Summary Offenses against Public Order as described in the Criminal Code: 32 days\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **(i)** Indictable Offenses against Rights of Property as described in the Criminal Code: 35 days\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **(i)** Indictable Offenses against Rights of Property as described in the Criminal Code: 25 days\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **(i)** Indictable Offenses in relation to Firearms and other Weapons as described in the Criminal Code: 30 days\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **(i)** Summary Offenses in relation to Firearms and other Weapons as described in the Criminal Code: 20 days\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **(i)** Indictable Inchoate Offenses as described in the Criminal Code: 30 days
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **(ii)** Summary Offenses against the Administration of Law and Justice as described in the Criminal Code: 35 days\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **(iii)** Indictable Offenses against Public Order as described in the Criminal Code: 42 days\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **(iv)** Summary Offenses against Public Order as described in the Criminal Code: 32 days\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **(v)** Indictable Offenses against Rights of Property as described in the Criminal Code: 35 days\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **(vi)** Indictable Offenses against Rights of Property as described in the Criminal Code: 25 days\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **(vii)** Indictable Offenses in relation to Firearms and other Weapons as described in the Criminal Code: 30 days\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **(viii)** Summary Offenses in relation to Firearms and other Weapons as described in the Criminal Code: 20 days\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **(ix)** Indictable Inchoate Offenses as described in the Criminal Code: 30 days
 Summary Inchoate Offenses as described in the Criminal Code: 14 days\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **(i)** Traffic Offenses as described in the Criminal Code: 7 days\ 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **(i)** Offenses listed in the Torts Act of 2022: 30 days.\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **(i)** The limitations period provided herein shall only apply to the period between the moment that the offense occurred and the moment that a case is filed with the Vancouver Municipal Court.\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **(1)** The Court proceedings shall not be included in the limitations period.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **(x)** Traffic Offenses as described in the Criminal Code: 7 days\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **(xi)** Offenses listed in the Torts Act of 2022: 30 days.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **(xii)** The limitations period provided herein shall only apply to the period between the moment that the offense occurred and the moment that a case is filed with the Vancouver Municipal Court.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **(1)** The Court proceedings shall not be included in the limitations period.
 
 **III. Timeframe of Legislative Implementation**
 

@@ -1,0 +1,9 @@
+> See the [Index of Legislation](https://trello.com/b/UTpumOwr/vancouver-legislative-archives) for this Act's legislative history, including amendments that have not been added to this text.
+
+### Bylaw [%s](%s)
+
+#### %s
+
+#### %s City Council - Session %s
+
+_Table of Contents_

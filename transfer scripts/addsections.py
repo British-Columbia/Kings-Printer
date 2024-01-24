@@ -1,5 +1,4 @@
 import re
-import os
 
 with open("transfer scripts/rawtext.md", encoding="utf-8") as f: 
     text=f.read()

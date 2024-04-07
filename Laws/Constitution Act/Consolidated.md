@@ -11,7 +11,7 @@
 
 <hr/>
 
-**As of February 5, 2024**
+**As of April 7, 2024**
 
 [**View Table of Amendments**](./README.md)
 

@@ -19,7 +19,7 @@
 
 </div>
 
-[canuckman77]: https://www.roblox.com/users/71812450/profile
+[pizzar44v4]: https://www.roblox.com/users/150076872/profile
 
 ## Long Title
 
@@ -32,7 +32,7 @@
    ## Executive Power
 
 1. The executive government and authority of and over British Columbia is vested in the King of Canada and the Crown.
-1. It is recognized and declared that [canuckman77] is the Governor General, styled the Right Honourable.
+1. It is recognized and declared that [pizzar44v4] is the Governor General, styled the Right Honourable.
 1. It is lawful for the Governor General to exercise the authority of the Crown.
 1. It is lawful for the Governor General to appoint a Lieutenant Governor by letters patent, styled the Honourable, to exercise the authority of the Crown; and the Lieutenant Governor shall hold office during the pleasure of the Governor General.
 

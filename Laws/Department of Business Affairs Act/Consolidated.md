@@ -82,7 +82,7 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 
 #### Department Appeal Regulations
 
-15. The Department of Business Affairs shall be required to establish regulations and procedures for appealment of actions taken against businesses by the Department of Business Affairs.
+15. The Department of Business Affairs shall be required to establish regulations and procedures for appeal of actions taken against businesses by the Department of Business Affairs.
 
     &nbsp;&nbsp;&nbsp;(a) Such an appeal policy must specify how an appeal is initiated, and the standard process and procedure for an appeal.
 
@@ -110,10 +110,10 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 21. Licensed businesses, while operating on land leased to themselves by the Department of Business Affairs, shall have such land considered as their own private property, with the owner of the property being the owner of the licensed business.
 
 <div align="center">
-<h2>Part 5 — Repealment of Conflicting Legislation</h2>
+<h2>Part 5 — Repeal of Conflicting Legislation</h2>
 </div>
 
-#### Repealment
+#### Repeal
 
 22. C.B. 31 shall be repealed.
 

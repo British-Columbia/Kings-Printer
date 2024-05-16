@@ -154,7 +154,7 @@ medical or healing act, or otherwise any service related to the alleviation and 
 
 #### Department Appeal Regulations
 
-26. The Provincial Health Services Authority shall be required to establish regulations and procedures for appealment of actions taken against medical businesses and medical providers by the Provincial Health Services Authority.
+26. The Provincial Health Services Authority shall be required to establish regulations and procedures for appeal of actions taken against medical businesses and medical providers by the Provincial Health Services Authority.
 
     &nbsp;&nbsp;&nbsp;(a) Such an appeal policy must specify how an appeal is initiated, and the standard process and procedure for an appeal.
 
@@ -168,10 +168,10 @@ medical or healing act, or otherwise any service related to the alleviation and 
 
 
 <div align="center">
-<h2>Part 7 — Repealment of Conflicting Legislation</h2>
+<h2>Part 7 — Repeal of Conflicting Legislation</h2>
 </div>
 
-#### Repealment
+#### Repeal
 
 30. C.B. 85 shall be repealed.
 

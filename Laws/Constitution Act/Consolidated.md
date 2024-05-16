@@ -76,7 +76,7 @@
 1. Everyone has the right not to be arbitrarily detained or imprisoned.
 1. Everyone has the right on arrest or detention
 
-   (a) to be informed promptly of the reasons therefor;
+   (a) to be informed promptly of the reasons thereof;
 
    (b) to have the validity of the detention determined by way of habeas corpus and to be released if the detention is not lawful.
 
@@ -150,7 +150,7 @@
 
    (b) determining the office that will exercise any of the duties or functions under an enactment;
 
-   (c) transfering duties and functions from one office to another;
+   (c) transferring duties and functions from one office to another;
 
    (d) determining or change the name of an office.
 
@@ -201,7 +201,7 @@
 1. The Speaker or Deputy Speaker, styled the Honourable, must act as a neutral presiding officer at all sittings of the Legislative Assembly.
 1. The presiding officer at a sitting of the Legislative Assembly must maintain order and decorum, remain neutral, and make rulings on points of order and questions of privilege at the sitting.
 1. The Legislative Assembly is not competent to conduct business, except to adjourn, unless 4 members, including the Premier but not including the presiding officer, are present.
-1. At all sittings of the Legislative Assembly, each member of Legislative Assembly and the Premier is entitled to cast one vote in the affirmative, in the negative, or in absentention in respect of each business put to a vote at that sitting.
+1. At all sittings of the Legislative Assembly, each member of Legislative Assembly and the Premier is entitled to cast one vote in the affirmative, in the negative, or in abstention in respect of each business put to a vote at that sitting.
 1. The presiding officer at a sitting of the Legislative Assembly is not eligible to cast a vote in respect of any business put to a vote at that sitting.
 1. The Legislative Assembly must sit at least once every 30 days; if it fails to do so, the Lieutenant Governor may dissolve the Legislative Assembly and call for a general election.
 
@@ -259,7 +259,7 @@
 1. No person who is not a resident of British Columbia or who is convicted of an offence may be appointed judge.
 1. No judge may hold any other public office or elected office except when explicitly permitted to do so by a statute or in cases of ex officio seats.
 1. A judge may sit as an impartial arbiter on a commission, board, or tribunal that serves a public function.
-1. The Chief Judge is responsible for the general superintendance and administration of the court, maintaining the discipline of the court, determining rules of procedure for the Provincial Court, and maintaining the functions of the Provincial Court; and may employ the necessary staff to exercise these duties and powers.
+1. The Chief Judge is responsible for the general superintendence and administration of the court, maintaining the discipline of the court, determining rules of procedure for the Provincial Court, and maintaining the functions of the Provincial Court; and may employ the necessary staff to exercise these duties and powers.
 1. The Provincial Court may deliberate on and adopt motions and policies relevant to and within the scope of the proper administration of the court by a simple majority; and those motions and policies shall be deemed to be valid and have the same effect as a regulation, but which are subject to review by the legislature.
 
    ## Provincial Court Jurisdiction
@@ -272,7 +272,7 @@
 1. The Provincial Court may issue warrants for the arrest of persons and search of property.
 1. The Provincial Court may to set aside criminal records of any person.
 1. A judge who ceases to hold office, other than by reason of removal, may, during the 10 days following the day of ceasing to hold office, give judgement in a proceeding heard while holding office, and the judgement has effect as though the judge still held office.
-1. Any judge of the Provincial Court may exercise the powers of the Provincial Court unless an power is explictly prescribed as being exercisable only when two or more judges are sitting together.
+1. Any judge of the Provincial Court may exercise the powers of the Provincial Court unless an power is explicitly prescribed as being exercisable only when two or more judges are sitting together.
 1. Only a judge of the Provincial Court may
 
    (a) commit for contempt of court,
@@ -383,7 +383,7 @@
 1. When the Chief Electoral Officer issues a writ of election, the writ shall consist of the office up for election, the number of seats to be filled, and the date for the certification of results.
 1. The Chief Electoral Officer must allow sufficient time for nominations, campaigning, and voting to take occur, being, at a minimum,
 
-   (a) in general elctions, 48 hours each; and
+   (a) in general elections, 48 hours each; and
 
    (b) in special elections, 24 hours each.
 
@@ -554,7 +554,7 @@
 
    (b) seriously threatens the ability of the government of British Columbia to preserve the sovereignty, security, or territorial integrity of British Columbia and that cannot be effectively dealt with under any other law of British Columbia.
 
-1. The Premier may, if he or she belives an emergency exists, declare by order in council,
+1. The Premier may, if he or she believes an emergency exists, declare by order in council,
 
    (a) a public welfare emergency, where a situation results or may result in a danger to life or property, social disruption, or breakdown in the flow of essential goods, services, or resources so serious as to be an emergency;
 

@@ -174,6 +174,3 @@ medical or healing act, or otherwise any service related to the alleviation and 
 #### Repeal
 
 30. C.B. 85 shall be repealed.
-
-<hr/>
-<div align="center">

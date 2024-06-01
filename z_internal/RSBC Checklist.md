@@ -5,5 +5,6 @@
 3. Validate section numbering, spelling, formatting and grammar — correcting any errors
 5. Link to any other referenced chapters
 6. Update the index table
-7. Update 'as amended' copies
-8. Does the criminal offences Trello board need to be updated? What about the in-game jail times?
+7. Update consolidated ('as amended') version
+8. Update the 'as amended' date on the original copy
+9. Does the criminal offences Trello board need to be updated? What about the in-game jail times?

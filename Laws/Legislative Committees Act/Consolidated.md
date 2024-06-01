@@ -1,3 +1,6 @@
+> [!note]
+> This consolidation is published for convenience only.
+
 <div align="center">
 
 <hr/>
@@ -6,9 +9,9 @@
 
 <h2><small>[RSBC 2024] CHAPTER 2</small></h2>
 
-**Effective February 18, 2024**
+**As of June 1, 2024**
 
-[**View as amended (June 1, 2024)**](../../Laws/Legislative%20Committees%20Act/Consolidated.md)
+[**View Table of Amendments**](./README.md)
 
 <hr/>
 
@@ -48,13 +51,13 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 
 #### Staffing of Committees
 
-6. Committees, upon their establishment shall have their membership decided collectively by the Legislative Assembly during a sitting of the assembly, in which members are appointed by motions; if more than one-half of the members in attendance of the sitting are in agreement of the motion, said member shall be appointed to serve on the committee.
+6. Committees, upon their establishment may have their membership decided collectively by the Legislative Assembly during a sitting of the assembly, in which members are appointed by motions; if more than one-half of the members in attendance of the sitting are in agreement of the motion, said member shall be appointed to serve on the committee.
 
    1. Committees may additionally have their membership determined by the resolution which originally established the said committee.
 
 7. The removal of a member of the Legislative Assembly from membership within a committee may be done through a resolution being adopted during a sitting upon more than one-half of the members present voting in the affirmative to pass the resolution.
 
-8. Upon a committee having its membership filled as determined by the resolution which established it, the committee shall elect one of its members to be the Chair of the committee. Such an election shall be presided over by the Speaker of the Legislative Assembly.
+8. Upon a committee having its membership decided, the committee shall elect one of its members to be the Chair of the committee. Such an election shall be presided over by the Speaker of the Legislative Assembly.
 
    1. A Chair of a committee shall act as the Speaker of the Legislative Assembly does but at a committee level.
 

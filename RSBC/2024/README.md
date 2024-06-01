@@ -18,3 +18,4 @@
 | RSBC 2024, c. 14 | [Law Society Act](./14.md)                                              | 1st        |
 | RSBC 2024, c. 15 | [Diplomacy Act of 2023 (Repeal) Act](./15.md)                           | 1st        |
 | RSBC 2024, c. 16 | [Ministry of Trade (Amendment) Act](./16.md)                            | 1st        |
+| RSBC 2024, c. 17 | [Legislative Committees (Amendment) Act](./17.md)                       | 1st        |

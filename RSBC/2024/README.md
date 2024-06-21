@@ -2,7 +2,7 @@
 
 | Citation         | Enactment                                                               | Parliament |
 | ---------------- | ----------------------------------------------------------------------- | ---------- |
-| RSBC 2024, c. 1  | [Constitution Act](./1.md)                                              | 0th        |
+| RSBC 2024, c. 1  | [Constitution Act](./1.md)                                              |            |
 | RSBC 2024, c. 2  | [Legislative Committees Act](./2.md)                                    | 1st        |
 | RSBC 2024, c. 3  | [Canadian Security Intelligence Service Act](./3.md)                    | 1st        |
 | RSBC 2024, c. 4  | [Protections Act](./4.md)                                               | 1st        |
@@ -19,3 +19,5 @@
 | RSBC 2024, c. 15 | [Diplomacy Act of 2023 (Repeal) Act](./15.md)                           | 1st        |
 | RSBC 2024, c. 16 | [Ministry of Trade (Amendment) Act](./16.md)                            | 1st        |
 | RSBC 2024, c. 17 | [Legislative Committees (Amendment) Act](./17.md)                       | 1st        |
+| RSBC 2024, c. 18 | [Holidays Act](./18.md)                                                 | 2nd        |
+| RSBC 2024, c. 19 | [Executive Appointments Act](./19.md)                                   | 2nd        |

@@ -1,3 +1,6 @@
+> [!note]
+> This consolidation is published for convenience only.
+
 <div align="center">
 
 <hr/>
@@ -6,9 +9,9 @@
 
 <h2><small>[RSBC 2024] CHAPTER 19</small></h2>
 
-**Effective June 21, 2024**
+**As of July 16, 2024**
 
-[**View as amended (July 16, 2024)**](../../Laws/Executive%20Appointments%20Act/Consolidated.md)
+[**View Table of Amendments**](./README.md)
 
 <hr/>
 

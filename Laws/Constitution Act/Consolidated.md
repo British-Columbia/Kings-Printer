@@ -110,7 +110,7 @@
 34. Everyone has the right not to be compelled to serve in the Canadian Forces.
 35. English and French are the official languages of British Columbia and have equality of status and equal rights and privileges as to their use in all institutions of the legislature and government of British Columbia.
 36. Everyone has the right to use English or French in any debates and other proceedings of the legislature.
-37. The statutes, records and journals of the legislature may be printed and published in English and French and both language versions are equally authoritative.
+37. The statutes, records and journals of the legislature may be printed and published in English and French.
 38. Anyone whose rights or freedoms, as guaranteed by this Charter, have been infringed or denied may apply to a court of competent jurisdiction to obtain such remedy as the court considers appropriate and just in the circumstances.
 
       (a) Where, in proceedings under this section, a court concludes that evidence was obtained in a manner that infringed or denied any rights or freedoms guaranteed by this Charter, the evidence shall be excluded if it is established that, having regard to all the circumstances, the admission of it in the proceedings would bring the administration of justice into disrepute.
@@ -125,7 +125,7 @@
     ## Office of Premier
 
 45. The Premier, styled the Honourable, is the President of the Executive Council, chief diplomat, and is responsible for the executive functions of the government of British Columbia.
-46. The Premier may sit and vote on matters in the Legislative Assembly.
+46. The Premier may sit and vote on matters in the Legislative Assembly if they are not already a member.
 47. The Premier may issue orders in council to
 
       (a) Establish and dissolve executive offices as subsidiary government bodies under the Premier;
@@ -136,7 +136,7 @@
 
       (d) Determine policies for executive offices, departments, agencies, and commissions as necessary;
 
-      (e) Nominate individuals to sit on the Executive Council;
+      (e) Nominate or appoint individuals to sit on the Executive Council;
 
       (f) Appoint judges to the Provincial Court on the advice of the Chief Judge of the Provincial Court;
 
@@ -160,9 +160,9 @@
 
       ## Executive Council
 
-52. The Executive Council consists of members of Executive Council, each styled the Honourable.
-53. Members of Executive Council are nominated by the Premier and subject to approval by the Legislative Assembly.
-54. Members of Executive Council act as heads of departments, agencies, and commissions on behalf of the Premier.
+52. The Executive Council consists of members of Executive Council, each styled the Honourable and includes the Premier and Deputy Premier.
+53. Members of Executive Council are appointed by the Premier.
+54. [Repealed 2024-07-16]
 55. Members of Executive Council report to and are subject to directions from the Premier.
 56. Members of Executive Council may appoint, dismiss, and direct staff, prescribe powers and duties, and determine policies for the departments, agencies, and commissions to which they were appointed.
 57. Any of the powers and duties assigned by law to any of the officials constituting the Executive Council may, by order in council, be assigned and transferred for any period to any other of the officials.
@@ -173,14 +173,14 @@
 59. The Legislative Assembly may establish committees as it sees fit and refer any matter to a committee for report and delegate, with or without restrictions or conditions, to any committee any of the executive or administrative powers exercisable by the Legislative Assembly.
 60. The Legislative Assembly may establish and equip departments and offices as it may from time to time deem expedient in the exercise of its powers and delegate to departments and offices any of the executive or administrative powers exercisable by the Legislative Assembly.
 61. The Legislative Assembly has the duty, in all instances while conducting business and exercising its authority, to act in the public interest.
-62. The whole of the membership of the Legislative Assembly consists of 6 members of Legislative Assembly, each styled the Honourable, plus the Premier.
+62. The whole of the membership of the Legislative Assembly consists of as many members of Legislative Assembly as the Lieutenant Governor orders to be elected, each styled the Honourable.
 
      ## Election of Speaker
 
 63. At its first sitting and at subsequent sittings where the office of Speaker is vacant, the Legislative Assembly must elect one of its members to be Speaker before proceeding to business.
-64. An election of Speaker shall be presided by the Premier.
-65. Each member of Legislative Assembly not including the Premier is qualified to nominate themselves to the Premier for the office of Speaker.
-66. Each member of Legislative Assembly not including the Premier is entitled to cast up to the number of candidates for Speaker of votes.
+64. An election of Speaker shall be presided by a person designated by the Lieutenant Governor.
+65. Each member of Legislative Assembly not including the person presiding is qualified to nominate themselves for the office of Speaker.
+66. Each member of Legislative Assembly not including the person presiding is entitled to cast up to the number of candidates for Speaker of votes.
 67. The candidate for Speaker with the plurality of votes is elected Speaker.
 68. If the need arises, the Legislative Assembly may elect one of its members to be Deputy Speaker in the same manner as the Speaker is elected.
 69. Unless otherwise provided for or unless the context requires otherwise, all references to a member of Legislative Assembly includes a reference to the Speaker or Deputy Speaker.
@@ -189,7 +189,7 @@
 
 70. The Legislative Assembly may conduct ordinary business such as adopting motions, resolutions, bills, and executive nominations, provided more than one-half of the members present vote in the affirmative in respect of the matter.
 71. The Legislative Assembly may conduct business in committee such as initiating investigations, conducting hearings, subpoenaing witnesses, testimony, and documents, and entering recommendations to the extent permitted by law, provided more than one-half of the members present vote in the affirmative in respect of the matter.
-72. The Legislative Assembly may conduct special business and consider special resolutions such as continuing the legislature, amending the _Constitution Act_, reviewing an emergency declaration, and removing officials from office, provided more than two-thirds of the whole of the membership of the Legislative Assembly vote in the affirmative in respect of the matter.
+72. The Legislative Assembly may conduct special business and consider special resolutions such as amending the _Constitution Act_, reviewing an emergency declaration, and removing officials from office, provided more than two-thirds of the whole of the membership of the Legislative Assembly vote in the affirmative in respect of the matter.
 73. If the votes for and against a question or matter are equal or otherwise not sufficient, the question or matter is defeated.
 74. The Legislative Assembly may determine its own rules of procedure and standing orders to be followed in the conduct of its business; and shall conduct business in accordance with said rules and orders adopted by resolution.
 75. The Legislative Assembly shall keep a journal of its sittings and of the votes of its members in all businesses it
@@ -200,19 +200,19 @@
 
 77. The Speaker or Deputy Speaker, styled the Honourable, must act as a neutral presiding officer at all sittings of the Legislative Assembly.
 78. The presiding officer at a sitting of the Legislative Assembly must maintain order and decorum, remain neutral, and make rulings on points of order and questions of privilege at the sitting.
-79. The Legislative Assembly is not competent to conduct business, except to adjourn, unless 4 members, including the Premier but not including the presiding officer, are present.
+79. The Legislative Assembly is not competent to conduct business, except to adjourn, unless at least one half of the total members but no fewer than 4 members, including the Premier but not including the presiding officer, are present.
 80. At all sittings of the Legislative Assembly, each member of Legislative Assembly and the Premier is entitled to cast one vote in the affirmative, in the negative, or in abstention in respect of each business put to a vote at that sitting.
 81. The presiding officer at a sitting of the Legislative Assembly is not eligible to cast a vote in respect of any business put to a vote at that sitting.
-82. The Legislative Assembly must sit at least once every 30 days; if it fails to do so, the Lieutenant Governor may dissolve the Legislative Assembly and call for a general election.
+82. The Lieutenant Governor may dissolve the Legislative Assembly and call for a general election.
 
      ## Special Sittings of Legislature
 
 83. A special sitting may be called by the Speaker or the Premier.
 84. At a special sitting, the Legislative Assembly may only consider the matter for which the special sitting was called for.
-85. A special sitting called to continue the Legislative Assembly must provide the public with the opportunity to speak before the Legislative Assembly.
+85. [Repealed 2024-07-16]
 86. A special sitting called to amend the _Constitution Act_ must provide the public with the opportunity to speak before the Legislative Assembly.
 87. A special sitting called to review a public welfare emergency, a public order emergency, or a war emergency must provide the Premier with the opportunity to speak before the Legislative Assembly.
-88. The Legislative Assembly may only be continued in time of real or apprehended war, invasion or insurrection; and the duration of the continuance must be specified in the number of days, not to exceed 30 days in any one term.
+88. [Repealed 2024-07-16]
 89. A special sitting called to remove an official from office must provide the official with the opportunity to speak before the Legislative Assembly.
 90. An official means
 
@@ -222,7 +222,7 @@
 
     (c) the Deputy Premier,
 
-     (d) an official nominated by the Premier, and
+     (d) an official nominated or appointed by the Premier, and
 
     (e) an official appointed by the Legislative Assembly.
 
@@ -232,7 +232,7 @@
 
      (b) has been convicted of an offence,
 
-    (c) exhibits corruption,
+    (c) exhibits corruption or malfeasance,
 
     (d) neglects his or her duties, or
 
@@ -243,9 +243,9 @@
     ## Effect of Legislative Acts
 
 93. Where the Legislative Assembly adopts a bill, the bill becomes law after it receives royal assent from the Lieutenant Governor and is published on the King's Printer.
-94. A bill is deemed to have been assented to and becomes law 72 hours after the bill is adopted by the Legislative Assembly unless the Lieutenant Governor earlier intervenes and refuses to give royal assent to the bill.
+94. A bill is deemed to have been assented to 72 hours after the bill is adopted by the Legislative Assembly unless the Lieutenant Governor earlier intervenes and refuses to give royal assent to the bill.
 95. The Lieutenant Governor may refuse to give royal assent to a bill at the request of the Premier or if he or she believes the bill will cause irreparable harm to British Columbia; in either case, if the Lieutenant Governor refuses to give royal assent to a bill, he or she must articulate his or her reasons for doing so in writing to the Speaker of the Legislative Assembly.
-96. Where the Legislative Assembly adopts a measure to continue the Legislative Assembly, the Lieutenant Governor must consent to the continuance; and the continuance only takes effect at such time as the Lieutenant Governor offers his or her consent to the continuance.
+96. [Repealed 2024-07-16]
 97. Where the Legislative Assembly adopts an executive nomination, the nominee is eligible to take oath and then enter office immediately.
 98. Where the Legislative Assembly adopts a special resolution to remove an official from office, the official ceases to hold office immediately.
 99. Where the Legislative Assembly adopts a motion or resolution, the motion or resolution takes effect immediately.
@@ -260,7 +260,7 @@
 105. No judge may hold any other public office or elected office except when explicitly permitted to do so by a statute or in cases of ex officio seats.
 106. A judge may sit as an impartial arbiter on a commission, board, or tribunal that serves a public function.
 107. The Chief Judge is responsible for the general superintendence and administration of the court, maintaining the discipline of the court, determining rules of procedure for the Provincial Court, and maintaining the functions of the Provincial Court; and may employ the necessary staff to exercise these duties and powers.
-180. The Provincial Court may deliberate on and adopt motions and policies relevant to and within the scope of the proper administration of the court by a simple majority; and those motions and policies shall be deemed to be valid and have the same effect as a regulation, but which are subject to review by the legislature.
+108. The Provincial Court may deliberate on and adopt motions and policies relevant to and within the scope of the proper administration of the court by a simple majority; and those motions and policies shall be deemed to be valid and have the same effect as a regulation, but which are subject to review by the legislature.
 
       ## Provincial Court Jurisdiction
 
@@ -314,7 +314,7 @@
 
       (a) is inactive,
 
-      (b) exhibits corruption,
+      (b) exhibits corruption or malfeasance,
 
       (c) neglects his or her duties, or
 
@@ -380,33 +380,29 @@
 137. Every resident of British Columbia is an elector and is entitled to vote in any election administered in British Columbia.
 138. Every elector who is 13 years of age or older is eligible to submit their candidacy in any election, provided they are not convicted of a crime, disqualified from public office by a judge, or disqualified by the Chief Electoral Officer.
 139. The Chief Electoral Officer or a statute may regulate candidate eligibility and by electoral regulations.
-140. When the Chief Electoral Officer issues a writ of election, the writ shall consist of the office up for election, the number of seats to be filled, and the date for the certification of results.
+140. When the Chief Electoral Officer issues a writ of election, the writ shall consist of the office up for election, the number of seats to be filled as ordered by the Lieutenant Governor, and the date for the certification of results.
 141. The Chief Electoral Officer must allow sufficient time for nominations, campaigning, and voting to take occur, being, at a minimum,
 
       (a) in general elections, 48 hours each; and
 
       (b) in special elections, 24 hours each.
 
-142. All voting shall be conducted through an in-game system under the oversight of the Governor General.
+142. All voting shall be conducted through an in-game system under the oversight of the Lieutenant Governor.
 143. Voting secrecy shall be preserved for all elections.
 144. In all elections, the voting results must be certified by the Chief Electoral Officer.
-145. In all elections, the candidate having the highest number of votes is elected until each seat for which the election was called is filled.
-146. Where there is an equal number of votes for the candidates with the highest number of votes, the Chief Electoral Officer may choose to conduct a runoff election, where a minimum of 24 hours must be allowed for voting, or to choose the winner by drawing by lot, if such procedure is permitted by regulation.
+145. [Repealed 2024-07-16]
+146. [Repealed 2024-07-16]
 
       ## Elections Schedules
 
 147. The Chief Electoral Officer must maintain an elections schedule pursuant to this Act, to be generally followed except in exigent circumstances, where changes only as much as necessary may be permitted.
-148. A general election must be held to elect the Office of Premier on the second Thursday in the fourth calendar month following the previous general election for Office of Premier.
-149. A general election must be held to elect the Legislative Assembly on the second Thursday in the fourth calendar month following the previous general election for the members of Legislative Assembly; but if the Legislative Assembly is continued, the general election shall occur as soon as the continuance expires.
+148. [Repealed 2024-07-16]
+149. A general election must be held to elect the Legislative Assembly no later than 153 days following the previous general election.
 150. A writ of election by the Chief Electoral Officer may initiate a special election if there is a vacancy in any elected office and must initiate a special election if the vacancy is the result of a successful recall petition.
 
       ## Recall Procedures
 
-151. Every elected official is subject to recall, including
-
-      (a) the Premier, and
-
-      (b) members of Legislative Assembly.
+151. Every elected official is subject to recall, including members of Legislative Assembly.
 
 152. Every elector is eligible to submit and vote on petitions for the recall of any elected official who is subject to recall, provided they are not convicted of a crime, disqualified from public office by a judge, or disqualified by the Chief Electoral Officer.
 153. The permissable grounds for recall are:
@@ -423,13 +419,15 @@
 
       (a) the petition lists permissable grounds for recall,
 
-      (b) the official sought to be recalled has been in office for at least 10 days,
+      (b) the official sought to be recalled has been in office for at least 10 days and has not been subject to an approved petition for recall in the previous 10 days,
 
       (c) the petition for recall explains in particular its reasons for seeking recall,
 
-      (d) the petition complies with the form in which the Chief Electoral Officer requires petitions for recall to be submitted, and
+      (d) the petition complies with the form in which the Chief Electoral Officer requires petitions for recall to be submitted
 
-      (e) the petition appears genuine.
+      (e) the petition appears genuine, and
+
+      (f) the petition is signed by at least 5 other eligible electors.
 
 155. The Chief Electoral Officer must, upon approving a petition for recall, publish the petition and begin collecting votes of “approve” and “not approve” as to the question “Do you approve or do you not approve of the petition for recall of (name of official)?” from the residents of British Columbia over a period of 48 hours.
 156. If more residents vote “approve” than "not approve", a recall election is triggered and the Chief Electoral Officer shall issue a writ of election to that effect.
@@ -443,9 +441,11 @@
 
       (a) the referendum is signed by at least one member of Legislative Assembly,
 
-      (b) the referendum relates to a matter of public interest, and
+      (b) the referendum relates to a matter of public interest
 
-      (c) the referendum complies with the form in which the Chief Electoral Officer requires referendums to be submitted.
+      (c) the referendum complies with the form in which the Chief Electoral Officer requires referendums to be submitted, and
+
+      (d) the referendum is signed by at least 10 other eligible electors
 
 161. The Chief Electoral Officer must, upon approving a referendum, publish the referendum and begin collecting votes of “approve” and “not approve” as to the question “Do you approve or do you not approve of the referendum to (short description)?” from the residents of British Columbia over a period of 48 hours.
 162. If more residents vote “approve” than "not approve", the Chief Electoral Officer must declare that the referendum is successful, declare that the referendum has become law, and publish the referendum as if it were law on the King's Printer.
@@ -471,39 +471,25 @@
 
       ## Incorporation of Municipalities
 
-167. The City of Vancouver and the City of West Vancouver are incorporated as municipalities in British Columbia.
-168. The Crown may, by letters patent, incorporate and decorporate additional municipalities and districts in British Columbia.
+167. [Repealed 2024-07-16]
+168. The Crown may, by letters patent, incorporate and decorporate municipalities and districts in British Columbia.
 169. The provincial government may devise local government laws such as municipal charters and community charters for local governments in municipalities and districts, as the case may be.
 170. Local government laws may empower local councils to enact by-laws respecting matters of a local nature and to conduct local elections for local councils.
 
    ## Electoral Districts
 
-171. The City of Vancouver is divided into 5 electoral districts, as follows:
-
-      (a) Stanley Park—Prospect Point,
-
-      (b) West End,
-
-      (c) Vancouver—Robson,
-
-      (d) Vancouver—Beach, and
-
-      (e) Bayshore—Brockton Point.
-
-172. The City of West Vancouver is divided into 1 electoral district, as follows:
-
-      (a) West Vancouver—Sea to Sky.
-
+171. [Repealed 2024-07-16]
+172. [Repealed 2024-07-16]
 173. The Chief Electoral Officer shall define the boundaries of each electoral district, such that each electoral district represents approximately the same number of residents and such that every inhabited place in British Columbia is within exactly one electoral district.
 174. The Chief Electoral Officer may, when he or she believes it is necessary to do so, alter the name of an electoral district.
-175. The Chief Electoral Officer shall ensure that the number of electoral districts is the same as the number of seats in the Legislative Assembly, not including the Premier.
-176. If the number of seats in the Legislative Assembly as set out in this Act is amended, the Chief Electoral Officer must notify the Lieutenant Governor and make necessary changes to the electoral districts.
+175. The Chief Electoral Officer shall ensure that the number of electoral districts is the same as the number of seats in the Legislative Assembly.
+176. If the number of seats in the Legislative Assembly is amended, the Chief Electoral Officer must make necessary changes to the electoral districts.
 
       ## Terms of Office
 
 177. Terms of office shall be construed as to begin and end at noon, Coordinated Universal Time of the day referred to in this Act.
-178. The Premier is authorized to exercise the powers and duties of the Office of Premier from the second Sunday in the calendar month of the general election for Office of Premier until the second Sunday in the fourth calendar month following a general election for Office of Premier.
-179. The Legislative Assembly is authorized to conduct business from the second Sunday in the calendar month of the general election for the Legislative Assembly. The Legislative Assembly shall dissolve on the first Wednesday in the fourth calendar month following a general election for the Legislative Assembly.
+178. The Premier is authorized to exercise the powers and duties of the Office of Premier during the pleasure of the Lieutenant Governor.
+179. [Repealed 2024-07-16]
 
       ## Oath of Office
 
@@ -515,18 +501,19 @@
 
       ## Resignation of Officials
 
-183. The Premier or a member of Legislative Assembly who wishes to resign shall declare his or her intention to resign to the Chief Electoral Officer.
+183. (1) A member of Legislative Assembly who wishes to resign shall declare his or her intention to resign to the Chief Electoral Officer.
+
+      (2) If the Premier wishes to resign, he or she shall declare this intention to the Lieutenant Governor.
+
 184. A member of Executive Council or judge who wishes to resign shall declare his or her intention to resign to the Premier.
-185. The Chief Electoral Officer shall issue a writ of election for a special election in all cases when the Premier or a member of Legislative Assembly resigns, except if a general election for the vacancy is due in 30 days or less, in which case the Chief Electoral Officer may exercise his or her discretion.
-186. When the Premier is out of office, temporarily or otherwise, the individuals provided below shall act as interim Premier with all the powers and duties as Premier until the next election for the Office of the Premier in the order as follows:
+185. The Chief Electoral Officer shall issue a writ of election for a special election in all cases when a member of Legislative Assembly resigns, except if a general election for the vacancy is reasonably expected within 30 days or fewer, in which case the Chief Electoral Officer may exercise his or her discretion.
+186. When the Premier is out of office, temporarily or otherwise, the individuals provided below shall act as interim Premier with all the powers and duties as Premier until the next appointment for the Office of Premier in the order as follows:
 
       (a) the Deputy Premier,
 
-      (b) the Speaker,
+      (b) the Speaker, and then
 
-      (c) the Deputy Speaker, and then
-
-      (d) the Lieutenant Governor or a person designated by the Lieutenant Governor.
+      (c) the Lieutenant Governor or a person designated by the Lieutenant Governor.
 
 187. Generally, all acts of an interim official has the same effect as if done by the official in whose place the interim official is acting.
 
@@ -614,5 +601,5 @@
 206. An amendment to the _Constitution Act_ must be introduced as a special resolution at a special sitting of the Legislative Assembly.
 207. If a special resolution is adopted, the constitutional amendment shall be put to a referendum to seek the consent of the electors.
 208. If the referendum is successful, the constitutional amendment becomes law after it receives royal assent from the Lieutenant Governor and is published on the King's Printer.
-209. A constitutional amendment is deemed to have been assented to and becomes law 72 hours after the referendum is declared to be successful unless the Lieutenant Governor earlier intervenes and refuses to give royal assent to the constitutional amendment.
-201. The Lieutenant Governor may refuse to give royal assent to a constitutional amendment if he or she believes the bill will cause irreparable harm to British Columbia, in which case the Lieutenant Governor must articulate his or her reasons for doing so in writing to the Chief Electoral Officer.
+209. A constitutional amendment is deemed to have been assented to 72 hours after the referendum is declared to be successful unless the Lieutenant Governor earlier intervenes and refuses to give royal assent to the constitutional amendment.
+210. The Lieutenant Governor may refuse to give royal assent to a constitutional amendment if he or she believes the bill will cause irreparable harm to British Columbia, in which case the Lieutenant Governor must articulate his or her reasons for doing so in writing to the Chief Electoral Officer.

@@ -99,16 +99,16 @@ HIS MAJESTY, by and with the advice and consent of the Legislative Assembly of t
 | Deputy Attorney General and Deputy Minister of Justice      | Non-political |              No              |
 | Cabinet Secretary and Head of the BC Public Service         | Non-political |              No              |
 | Principal Secretary to the Premier                          |   Political   |              No              |
-| Chief Ambulance Officer, British Columbia Ambulance Service | Non-political |             Yes              |
-| Chief Constable, Victoria Police Department                 | Non-political |             Yes              |
-| Chief Sheriff, British Columbia Sheriff Service             | Non-political |             Yes              |
-| Commander, 3rd Canadian Division                            | Non-political |             Yes              |
-| Commissioner, Royal Canadian Mounted Police                 | Non-political |             Yes              |
+| Chief Ambulance Officer, British Columbia Ambulance Service | Non-political |              No              |
+| Chief Constable, Victoria Police Department                 | Non-political |              No              |
+| Chief Sheriff, British Columbia Sheriff Service             | Non-political |              No              |
+| Commander, 3rd Canadian Division                            | Non-political |              No              |
+| Commissioner, Royal Canadian Mounted Police                 | Non-political |              No              |
 | President, Law Society of British Columbia                  | Non-political |              No              |
-| Director, British Columbia Automobile Association           | Non-political |             Yes              |
-| Director, Canadian Security Intelligence Service            | Non-political |             Yes              |
-| Fire Chief, Victoria Fire Department                        | Non-political |             Yes              |
-| Warden, Correctional Service Canada                         | Non-political |             Yes              |
+| Director, British Columbia Automobile Association           | Non-political |              No              |
+| Director, Canadian Security Intelligence Service            | Non-political |              No              |
+| Fire Chief, Victoria Fire Department                        | Non-political |              No              |
+| Warden, Correctional Service Canada                         | Non-political |              No              |
 | Minister of Foreign Affairs                                 |   Political   |             Yes              |
 | Deputy Minister of Foreign Affairs                          | Non-political |              No              |
 | Minister of Trade                                           |   Political   |             Yes              |

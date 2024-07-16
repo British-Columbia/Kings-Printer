@@ -1,6 +1,6 @@
 **SHORT NAME:** Legislative Committees Act
 
-**LEGAL NAME:** RSBC 2024, c. 2: Legislative Committees Act
+**LEGAL NAME:** RSBC 2024, c. 2
 
 [**VIEW CONSOLIDATED ACT**](./Consolidated.md)
 

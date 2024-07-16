@@ -1,6 +1,6 @@
 **SHORT NAME:** Constitution Act
 
-**LEGAL NAME:** RSBC 2024, c. 1: An Act providing for the governance of the Province of British Columbia
+**LEGAL NAME:** RSBC 2024, c. 1
 
 [**VIEW CONSOLIDATED ACT**](./Consolidated.md)
 

@@ -1,6 +1,6 @@
 **SHORT NAME:** Ministry of Trade Act
 
-**LEGAL NAME:** RSBC 2024, c. 5: Department of Business Affairs Act
+**LEGAL NAME:** RSBC 2024, c. 5
 
 [**VIEW CONSOLIDATED ACT**](./Consolidated.md)
 

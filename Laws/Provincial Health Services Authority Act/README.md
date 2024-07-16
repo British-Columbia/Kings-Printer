@@ -1,6 +1,6 @@
 **SHORT NAME:** Provincial Health Services Authority Act
 
-**LEGAL NAME:** RSBC 2024, c. 6: Provincial Health Services Authority Act
+**LEGAL NAME:** RSBC 2024, c. 6
 
 [**VIEW CONSOLIDATED ACT**](./Consolidated.md)
 

@@ -22,3 +22,6 @@
 | RSBC 2024, c. 18 | [Holidays Act](./18.md)                                                 | 2nd        |
 | RSBC 2024, c. 19 | [Executive Appointments Act](./19.md)                                   | 2nd        |
 | RSBC 2024, c. 20 | [Constitution (Amendment) Act](./20.md)                                 | 2nd        |
+| RSBC 2024, c. 21 | [Justice Act](./21.md)                                                  | 2nd        |
+| RSBC 2024, c. 22 | [Contracts Act](./22.md)                                                | 2nd        |
+| RSBC 2024, c. 23 | [Torts Act](./23.md)                                                    | 2nd        |

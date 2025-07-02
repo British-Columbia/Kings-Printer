@@ -16,4 +16,4 @@ Order no. 1 was repealed by Order no. 6. Orders no. 2, 3, 4, and 5 are technical
 
 Orders no. 6 and 7 have the effect of regulations under Section 47(d) of the Constitution Act.
 
-Order no. 6 was amended by [Order in Council 13/2024](../Orders%20in%20Council/2024-0013.pdf).
+Order no. 6 was amended by [Order in Council 13/2024](../Orders%20in%20Council/2024/0013.pdf).

@@ -1,4 +1,4 @@
-# Checklist for printing new RSBC chapters
+# Checklist for printing new SBC chapters
 
 1. Ensure there is no unnecessary `<hr/>` at the end of the text
 2. Replace the front matter (everything up to `HIS MAJESTY, by and with the advice and consent of..`)

@@ -1,13 +1,10 @@
-> [!note]
-> This consolidation is published for convenience only.
-
 <div align="center">
 
 <hr/>
 
 <h1>EXECUTIVE APPOINTMENTS ACT</h1>
 
-<h2><small>[RSBC 2024] CHAPTER 19</small></h2>
+<h2><small>[SBC 2024] CHAPTER 19</small></h2>
 
 **As of July 16, 2024**
 

@@ -4,7 +4,7 @@
 
 <h1>BRITISH COLUMBIA ACT</h1>
 
-<h2><small>[RSBC 2024] CHAPTER 1</small></h2>
+<h2><small>[SBC 2024] CHAPTER 1</small></h2>
 
 **Effective January 1, 2024**
 

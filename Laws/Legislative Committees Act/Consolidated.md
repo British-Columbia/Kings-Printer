@@ -1,13 +1,10 @@
-> [!note]
-> This consolidation is published for convenience only.
-
 <div align="center">
 
 <hr/>
 
 <h1>LEGISLATIVE COMMITTEES ACT</h1>
 
-<h2><small>[RSBC 2024] CHAPTER 2</small></h2>
+<h2><small>[SBC 2024] CHAPTER 2</small></h2>
 
 **As of June 1, 2024**
 

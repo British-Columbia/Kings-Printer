@@ -1,6 +1,3 @@
-> [!note]
-> This consolidation is published for convenience only.
-
 <div align="center">
 
 <hr/>

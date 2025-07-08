@@ -8,3 +8,5 @@
 7. Update consolidated ('as amended') version
 8. Update the 'as amended' date on the original copy
 9. Does the criminal offences Trello board need to be updated? What about the in-game jail times?
+
+Currently, all of the SBC 2025 are missing steps 6 beyond.
